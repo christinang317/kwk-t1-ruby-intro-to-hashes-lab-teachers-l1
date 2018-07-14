@@ -1,4 +1,4 @@
-
+binding.pry
 
 def new_hash
 	my_hash = {}
@@ -12,7 +12,9 @@ end
 
 def monopoly
 	monopoly = {:railroads => {
-		:pieces => 4, }}
+		:pieces => 4, }
+
+	}
 
 end
 
